@@ -11,7 +11,7 @@
     "review" : "enter your comments here"
   }
   ```
- * Click on the send button wait for few seconds then your result must look like 
+* Click on the send button wait for few seconds then your result must look like 
   ```
   {
     "analysis": score
